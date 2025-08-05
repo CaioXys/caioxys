@@ -81,7 +81,7 @@ Me chamo Caio Fernando, tenho 19 anos e moro em Mogi Das Cruzes - SP. Atualmente
         align="left"
         alt="GitHub stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxys&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs-count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxys&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs-count=9"
     />
 
 </p>

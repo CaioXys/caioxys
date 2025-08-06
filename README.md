@@ -1,86 +1,54 @@
-# ❄️ Caio Fernando 
+<h1 align="left">❄️ Caio Fernando</h1>
+
+###
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Caio Fernando, tenho 19 anos e moro em Mogi Das Cruzes - SP. Atualmente estou estudando o técnico de Desenvolvimento de Sistemas na ETEC. Gosto muito de tecnologia e busquei colocar isso em prática por meio da programação back-end!
+<h4 align="left">Me chamo Caio Fernando, tenho 19 anos e moro em Mogi Das Cruzes - SP. Atualmente estou estudando o técnico de Desenvolvimento de Sistemas na ETEC. Gosto muito de tecnologia e busquei colocar isso em prática por meio da programação back-end!</h4>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fernando-silva05/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caioxys/)
+###
 
-### 🤖 Linguagens e Tecnologias
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+###
 
-<img
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<p align="left">🤖 Linguagens e Tecnologias</p>
 
-<img
-    align="left"
-    alt="Html5"
-    title="Html5"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-          
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>             
+###
 
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-   
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-<br/>       
-<br/>       
+###
 
-### 📊 Estátisticas
+<p align="left">📊 Estatísticas</p>
 
-<p>
-    <img
-        align="left"
-        alt="GitHub stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=caioxys&show_icons=true&theme=tokyonight&count_private=true"
-    />
+###
 
-<img
-        align="left"
-        alt="GitHub stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxys&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs-count=9&count_private=true"
-    />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioXys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioXys&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=Tecnologias" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CaioXys/CaioXys/output/snake.svg" alt="Snake animation" />
+
+###

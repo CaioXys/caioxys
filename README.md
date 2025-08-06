@@ -4,7 +4,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-<h4 align="left">Me chamo Caio Fernando, tenho 19 anos e moro em Mogi Das Cruzes, SP. Atualmente estou estudando o técnico de Desenvolvimento de Sistemas na ETEC. Gosto muito de tecnologia e busquei colocar isso em prática por meio da programação back-end!</h4>
+<h4 align="left">Me chamo Caio Fernando, tenho 19 anos e moro em Mogi Das Cruzes - SP. Atualmente estou estudando o técnico de Desenvolvimento de Sistemas na ETEC. Gosto muito de tecnologia e busquei colocar isso em prática por meio da programação back-end!</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioXys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioXys&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=Tecnologias" height="200" alt="languages graph"  />
 </div>

@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQl.</h4>
+<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQl!</h4>
 
 ###
 

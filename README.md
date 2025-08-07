@@ -2,9 +2,13 @@
 
 ###
 
-**`Estudante de Desenvolvimento de Sistemas`**
+**`Back-end Developer`**
 
 <h4 align="left">Me chamo Caio Fernando, tenho 19 anos e moro em Mogi Das Cruzes - SP. Atualmente estou estudando o técnico de Desenvolvimento de Sistemas na ETEC. Gosto muito de tecnologia e busquei colocar isso em prática por meio da programação back-end!</h4>
+
+###
+
+<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQl.</h4>
 
 ###
 
@@ -22,9 +26,9 @@
 
 ###
 
-<p align="left">🤖 Linguagens e Tecnologias</p>
+<h4 align="left">🤖 Linguagens e Tecnologias</h4>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -44,12 +48,12 @@
 
 ###
 
-<p align="left">📊 Estatísticas</p>
+<h4 align="left">📊 Estatísticas</h4>
 
-###
+##
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioXys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioXys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioXys&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=Tecnologias" height="200" alt="languages graph"  />
 </div>
 

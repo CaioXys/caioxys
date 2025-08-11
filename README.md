@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQl. Com isso, no curso técnico também aprendi um pouco sobre C#, utilizando o .NET Maui.</h4>
+<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQL. Com isso, no curso técnico também aprendi um pouco sobre C#, utilizando o .NET Maui.</h4>
 
 ###
 

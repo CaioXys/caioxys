@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQL. Com isso, no curso técnico também aprendi um pouco sobre C#, utilizando o .NET Maui.</h4>
+<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQL. Com isso, no curso técnico também aprendi um pouco sobre C#, utilizando o .NET Maui, para fazer aplicativos mobile!</h4>
 
 ###
 
@@ -31,24 +31,23 @@
 ##
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
-###
 
 <h4 align="left">📊 Estatísticas</h4>
 

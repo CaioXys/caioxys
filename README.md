@@ -1,14 +1,10 @@
-<h1 align="left">❄️ Caio Fernando</h1>
+<h1 align="left">❄️| Caio Fernando</h1>
 
 ###
 
-**`Back-end Developer`**
+**`Software Engineer Student`**
 
-<h4 align="left">Me chamo Caio Fernando, tenho 20 anos e moro em Mogi Das Cruzes - SP. Sou técnico de Desenvolvimento de Sistemas pela ETEC, e sempre gostei muito de tecnologia e busquei colocar isso em prática por meio da programação back-end!</h4>
-
-###
-
-<h4 align="left">Desde 2024 comecei a me apaixonar por programação, e isso tem sido meu foco desde então, aprender e procurar evoluir como programador! Logo no começo comecei a me interessar por Java e essa se tornou minha linguagem favorita, mas não quis ficar na zona de conforto e busquei aprender também PHP junto ao MySQL. Com isso, no curso técnico também aprendi um pouco sobre C#, utilizando o .NET Maui, para fazer aplicativos mobile!</h4>
+<h4 align="left">Sou estudante de Engenharia de Software na Universidade de Mogi das Cruzes e técnico em Desenvolvimento de Sitemas. Também estudo por cursos livres e vídeos sobre a linguagem Java e Spring Boot, aprimorando também meus conhecimentos em banco de dados, como o MySQL e PostgreSQL.</h4>
 
 ###
 
@@ -52,9 +48,11 @@
 
 ##
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioXys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioXys&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=Tecnologias" height="200" alt="languages graph" />
-</div>
+
+![GitHub Stats](https://github-readme-stats-fork.vercel.app/api?username=caioxys&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
+
+
+
 
 ###

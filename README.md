@@ -50,7 +50,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats-fork.vercel.app/api?username=caioxys&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
-
+![snake gif](https://github.com/CaioXys/CaioXys/blob/output/github-contribution-grid-snake.svg)
 
 
 
